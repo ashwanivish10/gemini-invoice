@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Food Invoice Generator",
+  "description": "An intelligent invoice generator for food services. Upload an image of your order list, and the app uses AI to automatically extract items, dates, and quantities, calculating totals based on your unit price. Customize themes, manage clients, and download professional PDF invoices."
+}
