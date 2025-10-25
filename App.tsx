@@ -73,7 +73,7 @@ function App() {
     const [items, setItems] = useState<InvoiceItem[]>(INITIAL_ITEMS);
     const [clients, setClients] = useState<string[]>([]);
     const [invoiceToName, setInvoiceToName] = useState('Monu');
-    const [logo, setLogo] = useState<string>('icon.png');
+    const [logo, setLogo] = useState<string>('iconn.png');
     const [amountPaid, setAmountPaid] = useState(0);
     const [taxPercent, setTaxPercent] = useState(0);
     const [currentDate] = useState(new Date().toLocaleDateString('en-IN', { day: '2-digit', month: '2-digit', year: '2-digit' }));
